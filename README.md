@@ -18,4 +18,4 @@ This project focuses on analyzing and visualizing global population data using t
 1. Ensure Python is installed.
 2. Install dependencies: `pip install pandas matplotlib seaborn`.
 3. Run the Jupyter Notebook: `TASK1 barchart-histogram.ipynb`.
-4. 
+   
